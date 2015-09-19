@@ -1,0 +1,7 @@
+{
+  "name": "presentation-git-your-ftc-on",
+  "version": "0.0.0",
+  "dependencies": {
+    "prism": "gh-pages"
+  }
+}
